@@ -1,4 +1,4 @@
-var textEl = document.getElementById("text").style;
+const textEl = document.getElementById("text").style;
 
 function js_style(){
     textEl.color = "red";

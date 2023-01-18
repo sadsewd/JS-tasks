@@ -1,4 +1,4 @@
-var p = document.getElementById('paragraph');
+const p = document.getElementById('paragraph');
 
 function setBg(){
     p.style.backgroundColor = "red";
